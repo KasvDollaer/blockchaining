@@ -1,0 +1,8 @@
+Practical Assignment 2 :
+ISS 411 CRYPTOGRAPHY AND DEVELOPMENT OF CRYPTOSYSTEMS
+KASVOSVE ZVIKOMBORERO
+H170194Z
+
+
+
+Q. show how a blockchain works
